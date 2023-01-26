@@ -83,7 +83,6 @@
 
 #grupo-cores div:nth-child(17){
     background-image: radial-gradient(closest-corner at 50% 25%, black, transparent), url(imagens/bg.jpg); 
-    
     background-size: cover;
     background-position: center -40px, center bottom;
     background-repeat: no-repeat;
